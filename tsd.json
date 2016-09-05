@@ -28,6 +28,9 @@
     },
     "morgan/morgan.d.ts": {
       "commit": "084e55916674ff7128722bf72150aa55acea08d9"
+    },
+    "serve-favicon/serve-favicon.d.ts": {
+      "commit": "084e55916674ff7128722bf72150aa55acea08d9"
     }
   }
 }
